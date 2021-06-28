@@ -10,7 +10,7 @@
 
 ### I am a passionate Full Stack Web Developer and Mobile App Developer. I love programming, singing, and traveling.
 
-Having an experience of building Web applications with Javascript | Reactjs / Angular / NodeJs / Laravel / Python and some other cool libraries and frameworks and Mobile Apps with React Native && Ionic. 
+Having an experience of building Web applications with Javascript | Reactjs | Angular | NodeJs | Laravel | Python and some other cool libraries and frameworks and Mobile Apps with React Native && Ionic. 
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rubengzraga/rubengzraga/main/coding.gif" width="408" height="318" />
